@@ -1,6 +1,6 @@
 # CoCreate Construction Website
 
----
+<br>
 
 ## Design Guide
 
@@ -68,9 +68,9 @@
 
 ### Breakpoints
 
-Mobile: default
-Tablet: `sm:` (640px and up)
-Desktop: `lg:` (1024px and up)
+- Mobile: default
+- Tablet: `sm:` (640px and up)
+- Desktop: `lg:` (1024px and up)
 
 <br>
 
@@ -173,6 +173,7 @@ one-stop service
 - button ไป contact us
 
 ตัวอย่าง:
+
 <img src="readme-assets/project-details.png" width="700">
 
 <br>
